@@ -1,0 +1,7 @@
+C:\Users\Nesma\Documents\Visual Studio 2010\Projects\HR project\HR project\bin\HR project.dll
+C:\Users\Nesma\Documents\Visual Studio 2010\Projects\HR project\HR project\bin\HR project.pdb
+C:\Users\Nesma\Documents\Visual Studio 2010\Projects\HR project\HR project\obj\Debug\HR project.dll
+C:\Users\Nesma\Documents\Visual Studio 2010\Projects\HR project\HR project\obj\Debug\HR project.pdb
+C:\Users\Nesma\Documents\Visual Studio 2010\Projects\HR project\HR project\obj\Debug\HR project.csprojResolveAssemblyReference.cache
+C:\Users\Nesma\documents\visual studio 2010\Projects\HR project\HR project\bin\AjaxControlToolkit.dll
+C:\Users\Nesma\documents\visual studio 2010\Projects\HR project\HR project\bin\MySql.Data.DLL
